@@ -1,5 +1,5 @@
 my:
-  name: 夏思思的儿子贾博华
+  name: 夏思思的小儿子贾博华
 spring:
   rabbitmq:
     host: localhost
